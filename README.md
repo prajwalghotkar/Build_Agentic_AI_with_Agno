@@ -694,17 +694,3 @@ __pycache__/
 | Wikipedia REST API | https://en.wikipedia.org/api/rest_v1/ |
 
 ---
-
-
-### Built by **Prajwal**
-*Aspiring AI & Data Professional · Exploring Agentic AI with Agno*
-
- If this helped you learn agentic AI, consider giving the repo a star!
-
-</div>
-
----
-
-### License
-
-Released under the **MIT License** — free to use for learning and building. *(Add a `LICENSE` file to your repo.)*
